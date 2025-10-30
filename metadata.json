@@ -1,0 +1,5 @@
+{
+  "name": "Chashi Bondhu: Crop Disease Identifier",
+  "description": "An intelligent agricultural application that leverages the Gemini API to identify crop diseases from images. Users can upload a photo of a diseased plant or leaf, and the app will provide a diagnosis along with recommended control and cure measures.",
+  "requestFramePermissions": []
+}
